@@ -1,4 +1,7 @@
 ### Updates
+#### -> 1.40.0
+* test release 
+
 #### -> 1.39.0
 * Startup optimization. Startup for ghprb will be split into a pool size of 5 threads, which
 can be overridden via JVM args.
